@@ -1,0 +1,23 @@
+/* النص العربي*/
+.ar{
+    direction: rtl;
+    text-align: right;
+}
+
+/*  العنوان */
+.txt_title{
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-size: 1.8em;
+}
+
+.txt-description{
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+/* حجم النص الاعتيادي */
+.txt_body{
+    font-size: 1.2em;
+    text-align: justify;
+    text-justify: inter-word;
+}

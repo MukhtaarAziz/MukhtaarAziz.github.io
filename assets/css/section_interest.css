@@ -1,0 +1,12 @@
+.interest_list{
+
+}
+.interest_list .item{
+    display: inline-block;
+    margin-left: 40px;
+}
+.interest_list .item img{
+    height:40px;
+    margin-bottom:20px;
+  
+}

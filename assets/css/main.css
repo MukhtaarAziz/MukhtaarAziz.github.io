@@ -1,0 +1,11 @@
+@import url(./reset.css);
+@import url(./typography.css);
+@import url(./header.css);
+@import url(./section_aboutme.css);
+@import url(./section_contactme.css);
+@import url(./section_services.css);
+@import url(./section_skills.css);
+@import url(./section_projects.css);
+@import url(./section_programs.css);
+@import url(./section_interest.css);
+@import url(./footer.css);

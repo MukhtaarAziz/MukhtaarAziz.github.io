@@ -1,0 +1,17 @@
+.programs{
+
+}
+.programs_list{
+
+}
+.programs_list .item{
+    display: inline-block;
+    margin-bottom: 1em;
+}
+
+.programs_list img{
+    width:40px;
+    height: 40px;
+    margin-left: 40px;
+
+}

@@ -1,0 +1,21 @@
+.contact_me{
+
+}
+
+.contact_me_list{
+}
+
+.contact_me_list .item{
+    margin-bottom: 1em;
+}
+
+.contact_me_list .item span{
+}
+.contact_me_list .item i{
+    display: inline-block;
+    margin-right:0.5em;
+    font-size: 30px;
+    width:30px;
+    line-height: 1;
+    color:#777;
+}

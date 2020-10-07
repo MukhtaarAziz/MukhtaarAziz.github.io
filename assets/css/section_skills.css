@@ -1,0 +1,75 @@
+/* list */
+.skills_list{ }
+/* list_item */
+.skills_list .item{
+    margin-bottom: 20px;
+} 
+/* list_item child1 */
+.skills_list .item .skill_logo{
+
+}
+/* list_item child1 child*/
+.skill_image{
+    display: inline-block;
+    width: 30px;
+    margin-right:1em;
+}
+/* list_item child1 child child */
+.skills_list .item .skill_logo .skill_image>img{
+   width:100%;
+}
+
+/* list_item child2 */
+.skills_list .skill_meter{
+    background-color: #ccc;
+    max-height: 20px;
+}
+/* list_item child2 child */
+.meter{
+    height: 20px;
+    background-color: #777;
+}
+
+
+.meter.html{
+    width:90%;
+}
+.meter.css{
+    width:70%;
+}
+.meter.js{
+    width:50%;
+}
+.meter.php{
+    width:40%;
+}
+.meter.mysql{
+    background-color: #777;
+    width:30%;
+}
+.meter.regexp{
+    background-color: #777;
+    width:30%;
+}
+.meter.cli{
+    background-color: #777;
+    width:50%;
+}
+.skill_group{
+    margin-bottom: 30px;
+}
+
+/* اقصى حد لأجهزة الموبايل */
+@media (max-width: 576px) { 
+    .skill_image{
+        display: none;
+    }
+    .skill_group{
+      margin-bottom: 0px;
+    }
+ }
+@media (max-width: 768px) { 
+    .skill_image{
+        display: none;
+    }
+ }

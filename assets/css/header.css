@@ -1,0 +1,22 @@
+header{
+    background: url(../imgs/bk001.png) no-repeat;
+    background-size: cover;
+}
+#header_layout{
+    
+    padding: 50px;
+}
+
+.img_profile{
+    border-radius: 50%;
+    border: 2px solid #fff;
+    display: block;
+    margin: 0 auto;
+}
+.img_fullname{
+    color:#fff;
+    display: block;
+    margin: 0 auto;
+    height: 50px;
+    margin-top:25px;
+}
